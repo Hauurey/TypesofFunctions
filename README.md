@@ -75,7 +75,7 @@ contract PokemonCoin is ERC20 {
 
 ## Contract Functions
 ### Public Variables
-admin: Address of the admin with special permissions.
+* admin: Address of the admin with special permissions.
 MAX_TOKEN_SUPPLY: The hard cap for the total token supply (10,000).
 
 ### Modifiers
